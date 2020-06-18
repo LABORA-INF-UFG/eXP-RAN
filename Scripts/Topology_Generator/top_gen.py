@@ -25,10 +25,10 @@ class VM:
 
 class Link:
 
-	def __init__ (self, linkNumber, from_node, to_node, capacity, delay):
+	def __init__ (self, linkNumber, fromNode, toNode, capacity, delay):
 		self.linkNumber = linkNumber
-		self.from_node = from_node
-		self.to_node = to_node
+		self.fromNode = fromNode
+		self.toNode = toNode
 		self.delay = delay
 		self.capacity = capacity
 
@@ -139,7 +139,7 @@ def gen_link_profile ():
 def draw_nodes (graph, vms_profile):
 
 	node_list = []
-	node_type = ["MECServer", "BaseStation", "Forwarding"]
+	node_type = ["MECHost", "BaseStation", "Forwarding"]
 	nodeCount = 1
 	vmCount = 1
 	num_nodes = nx.number_of_nodes(graph)
@@ -152,7 +152,7 @@ def draw_nodes (graph, vms_profile):
 
 		choice = random.choice(graph_nodes)
 		graph_nodes.remove(choice)
-		node = (Node(nodeCount, 'MECServer'))
+		node = (Node(nodeCount, 'MECHost'))
 		nodeCount += 1
 
 		numberVMs = random.randint(1, 10)
