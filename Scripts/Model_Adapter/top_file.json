@@ -1,0 +1,651 @@
+{
+  "drawn_cus": [
+    {
+      "cost": 0, 
+      "id": 16, 
+      "processing_power": 10000
+    }
+  ], 
+  "links": [
+    {
+      "to_id": 8, 
+      "capacity": 1, 
+      "delay": 122, 
+      "length": 24.400000000000002, 
+      "type": "smf_fiber_1310nm", 
+      "from_id": 0
+    }, 
+    {
+      "to_id": 13, 
+      "capacity": 1, 
+      "delay": 296, 
+      "length": 59.2, 
+      "type": "smf_fiber_1550nm", 
+      "from_id": 0
+    }, 
+    {
+      "to_id": 3, 
+      "capacity": 1, 
+      "delay": 191, 
+      "length": 38.2, 
+      "type": "smf_fiber_1550nm", 
+      "from_id": 1
+    }, 
+    {
+      "to_id": 19, 
+      "capacity": 1, 
+      "delay": 233, 
+      "length": 46.6, 
+      "type": "smf_fiber_1550nm", 
+      "from_id": 2
+    }, 
+    {
+      "to_id": 13, 
+      "capacity": 1, 
+      "delay": 350, 
+      "length": 70.0, 
+      "type": "smf_fiber_1550nm", 
+      "from_id": 3
+    }, 
+    {
+      "to_id": 6, 
+      "capacity": 1, 
+      "delay": 251, 
+      "length": 50.2, 
+      "type": "smf_fiber_1550nm", 
+      "from_id": 3
+    }, 
+    {
+      "to_id": 7, 
+      "capacity": 1, 
+      "delay": 350, 
+      "length": 70.0, 
+      "type": "smf_fiber_1550nm", 
+      "from_id": 3
+    }, 
+    {
+      "to_id": 20, 
+      "capacity": 1, 
+      "delay": 317, 
+      "length": 63.400000000000006, 
+      "type": "smf_fiber_1550nm", 
+      "from_id": 4
+    }, 
+    {
+      "to_id": 12, 
+      "capacity": 1, 
+      "delay": 216, 
+      "length": 43.2, 
+      "type": "smf_fiber_1550nm", 
+      "from_id": 4
+    }, 
+    {
+      "to_id": 22, 
+      "capacity": 1, 
+      "delay": 278, 
+      "length": 55.6, 
+      "type": "smf_fiber_1550nm", 
+      "from_id": 4
+    }, 
+    {
+      "to_id": 12, 
+      "capacity": 1, 
+      "delay": 303, 
+      "length": 60.6, 
+      "type": "smf_fiber_1550nm", 
+      "from_id": 5
+    }, 
+    {
+      "to_id": 25, 
+      "capacity": 1, 
+      "delay": 222, 
+      "length": 44.400000000000006, 
+      "type": "smf_fiber_1550nm", 
+      "from_id": 6
+    }, 
+    {
+      "to_id": 26, 
+      "capacity": 1, 
+      "delay": 260, 
+      "length": 52.0, 
+      "type": "smf_fiber_1550nm", 
+      "from_id": 7
+    }, 
+    {
+      "to_id": 10, 
+      "capacity": 1, 
+      "delay": 92, 
+      "length": 18.400000000000002, 
+      "type": "smf_fiber_1550nm", 
+      "from_id": 8
+    }, 
+    {
+      "to_id": 27, 
+      "capacity": 1, 
+      "delay": 98, 
+      "length": 19.6, 
+      "type": "smf_fiber_1310nm", 
+      "from_id": 8
+    }, 
+    {
+      "to_id": 28, 
+      "capacity": 1, 
+      "delay": 131, 
+      "length": 26.200000000000003, 
+      "type": "smf_fiber_1310nm", 
+      "from_id": 8
+    }, 
+    {
+      "to_id": 24, 
+      "capacity": 1, 
+      "delay": 156, 
+      "length": 31.200000000000003, 
+      "type": "smf_fiber_1550nm", 
+      "from_id": 9
+    }, 
+    {
+      "to_id": 19, 
+      "capacity": 1.25, 
+      "delay": 38, 
+      "length": 11.4, 
+      "type": "micro_wave", 
+      "from_id": 9
+    }, 
+    {
+      "to_id": 21, 
+      "capacity": 1, 
+      "delay": 205, 
+      "length": 41.0, 
+      "type": "smf_fiber_1550nm", 
+      "from_id": 9
+    }, 
+    {
+      "to_id": 27, 
+      "capacity": 1, 
+      "delay": 20, 
+      "length": 4.0, 
+      "type": "smf_fiber_1550nm", 
+      "from_id": 10
+    }, 
+    {
+      "to_id": 15, 
+      "capacity": 0.4, 
+      "delay": 40, 
+      "length": 12.0, 
+      "type": "micro_wave", 
+      "from_id": 10
+    }, 
+    {
+      "to_id": 17, 
+      "capacity": 1, 
+      "delay": 177, 
+      "length": 35.4, 
+      "type": "smf_fiber_1310nm", 
+      "from_id": 11
+    }, 
+    {
+      "to_id": 18, 
+      "capacity": 1, 
+      "delay": 180, 
+      "length": 36.0, 
+      "type": "smf_fiber_1310nm", 
+      "from_id": 11
+    }, 
+    {
+      "to_id": 29, 
+      "capacity": 1, 
+      "delay": 197, 
+      "length": 39.400000000000006, 
+      "type": "smf_fiber_1550nm", 
+      "from_id": 12
+    }, 
+    {
+      "to_id": 24, 
+      "capacity": 1, 
+      "delay": 157, 
+      "length": 31.400000000000002, 
+      "type": "smf_fiber_1310nm", 
+      "from_id": 13
+    }, 
+    {
+      "to_id": 22, 
+      "capacity": 1, 
+      "delay": 350, 
+      "length": 70.0, 
+      "type": "smf_fiber_1550nm", 
+      "from_id": 13
+    }, 
+    {
+      "to_id": 16, 
+      "capacity": 1, 
+      "delay": 294, 
+      "length": 58.800000000000004, 
+      "type": "smf_fiber_1550nm", 
+      "from_id": 14
+    }, 
+    {
+      "to_id": 29, 
+      "capacity": 1, 
+      "delay": 203, 
+      "length": 40.6, 
+      "type": "smf_fiber_1550nm", 
+      "from_id": 14
+    }, 
+    {
+      "to_id": 18, 
+      "capacity": 1, 
+      "delay": 283, 
+      "length": 56.6, 
+      "type": "smf_fiber_1550nm", 
+      "from_id": 16
+    }, 
+    {
+      "to_id": 26, 
+      "capacity": 1, 
+      "delay": 196, 
+      "length": 39.2, 
+      "type": "smf_fiber_1550nm", 
+      "from_id": 16
+    }, 
+    {
+      "to_id": 25, 
+      "capacity": 1, 
+      "delay": 254, 
+      "length": 50.800000000000004, 
+      "type": "smf_fiber_1550nm", 
+      "from_id": 18
+    }, 
+    {
+      "to_id": 20, 
+      "capacity": 1, 
+      "delay": 137, 
+      "length": 27.400000000000002, 
+      "type": "smf_fiber_1550nm", 
+      "from_id": 18
+    }, 
+    {
+      "to_id": 23, 
+      "capacity": 1, 
+      "delay": 350, 
+      "length": 70.0, 
+      "type": "smf_fiber_1550nm", 
+      "from_id": 20
+    }, 
+    {
+      "to_id": 29, 
+      "capacity": 1, 
+      "delay": 176, 
+      "length": 35.2, 
+      "type": "smf_fiber_1310nm", 
+      "from_id": 24
+    }, 
+    {
+      "to_id": 28, 
+      "capacity": 1.25, 
+      "delay": 58, 
+      "length": 17.4, 
+      "type": "micro_wave", 
+      "from_id": 26
+    }
+  ], 
+  "drawn_fowarding_nodes": [
+    {
+      "cost": 0, 
+      "id": 0, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 1, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 7, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 8, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 9, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 11, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 12, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 13, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 14, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 19, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 20, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 22, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 23, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 24, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 25, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 26, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 27, 
+      "processing_power": 10000
+    }
+  ], 
+  "pos": {
+    "24": [
+      -0.007182833095670231, 
+      -0.3719217354495125
+    ], 
+    "25": [
+      0.13653649118814262, 
+      0.48328005097788174
+    ], 
+    "26": [
+      -0.18114011552959527, 
+      0.31444276051585635
+    ], 
+    "27": [
+      -0.6936339989016103, 
+      0.049166911780015275
+    ], 
+    "20": [
+      0.4031924001023834, 
+      0.17767446638997933
+    ], 
+    "21": [
+      -0.00011540854727864607, 
+      -0.8362516127590145
+    ], 
+    "22": [
+      0.08773619225104508, 
+      -0.09732886772600899
+    ], 
+    "23": [
+      0.5842822761253366, 
+      0.20307666062305718
+    ], 
+    "28": [
+      -0.4224073609162864, 
+      0.25964126549177285
+    ], 
+    "29": [
+      0.13054114603397834, 
+      -0.21938110569391078
+    ], 
+    "1": [
+      -0.32144603331007826, 
+      0.3141027130938102
+    ], 
+    "0": [
+      -0.36039671768031845, 
+      -0.05835038821680967
+    ], 
+    "3": [
+      -0.17294060044055767, 
+      0.21213294336138347
+    ], 
+    "2": [
+      0.3004696070614314, 
+      -1.0
+    ], 
+    "5": [
+      0.2653444066305377, 
+      -0.4518591896571755
+    ], 
+    "4": [
+      0.3030142548199835, 
+      -0.057031799589176396
+    ], 
+    "7": [
+      -0.24310302056739685, 
+      0.39079111312103465
+    ], 
+    "6": [
+      -0.032475495103912386, 
+      0.40189539914703726
+    ], 
+    "9": [
+      0.05391144324623853, 
+      -0.6724389827368779
+    ], 
+    "8": [
+      -0.5310404212268441, 
+      0.08721670640603775
+    ], 
+    "11": [
+      0.3893647040651, 
+      0.6035183484603726
+    ], 
+    "10": [
+      -0.5696852151456367, 
+      0.013338034362868238
+    ], 
+    "13": [
+      -0.12823765659017827, 
+      -0.09214398147046497
+    ], 
+    "12": [
+      0.2827402782470716, 
+      -0.2683255137267207
+    ], 
+    "15": [
+      -0.39236511937430346, 
+      0.03923797264622661
+    ], 
+    "14": [
+      0.12381733735668216, 
+      0.025964192799308432
+    ], 
+    "17": [
+      0.4524470072792625, 
+      0.7674585710442735
+    ], 
+    "16": [
+      0.07719009798291594, 
+      0.25965530317443314
+    ], 
+    "19": [
+      0.1852147021204294, 
+      -0.8673675648441604
+    ], 
+    "18": [
+      0.28036765191912805, 
+      0.38980732847448446
+    ]
+  }, 
+  "nodes": [
+    {
+      "cost": 0, 
+      "id": 0, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 1, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 7, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 8, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 9, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 11, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 12, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 13, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 14, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 19, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 20, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 22, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 23, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 24, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 25, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 26, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 27, 
+      "processing_power": 10000
+    }
+  ], 
+  "drawn_epcs": [
+    {
+      "cost": 0, 
+      "id": 6, 
+      "processing_power": 10000
+    }
+  ], 
+  "drawn_rus": [
+    {
+      "cost": 0, 
+      "id": 10, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 5, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 29, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 18, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 21, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 28, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 15, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 3, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 2, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 4, 
+      "processing_power": 10000
+    }, 
+    {
+      "cost": 0, 
+      "id": 17, 
+      "processing_power": 10000
+    }
+  ]
+}
