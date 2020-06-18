@@ -75,7 +75,7 @@ def convert_solution(user, fluidran_sol_filename, topology_filename):
 	for node in topology_data["drawn_cus"]:
 		node_data = {
 			"nodeNumber": node["id"],
-			"nodeType": "MECServer"
+			"nodeType": "MECHost"
 		}
 
 		nodes_dict[int(node["id"])] = node_data
@@ -177,7 +177,7 @@ def convert_solution(user, fluidran_sol_filename, topology_filename):
 	json.dump(infra, infra_file, indent=4)
 	infra_file.close()
 
-	services_file = open("vRAN_services.json", "w")
+	services_file = open("vRAN_MEC_services.json", "w")
 	json.dump(services, services_file, indent=4)
 	services_file.close()
 
