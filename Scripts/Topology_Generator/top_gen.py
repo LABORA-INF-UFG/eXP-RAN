@@ -140,7 +140,7 @@ def draw_nodes (graph, vms_profile):
 
 	node_list = []
 	node_type = ["MECHost", "BaseStation", "Forwarding"]
-	nodeCount = 1
+	nodeCount = 0
 	vmCount = 1
 	num_nodes = nx.number_of_nodes(graph)
 	number_mec = int(round(num_nodes * 0.05))
@@ -200,7 +200,7 @@ def closest_dist(links_profile, distance):
 def draw_links (graph, links_profile, L):
 
 	links_list = []
-	nodeCount = 1
+	nodeCount = 0
 	pos = nx.get_node_attributes(graph, 'pos')
 
 	for edge in graph.edges:
@@ -213,7 +213,7 @@ def draw_links (graph, links_profile, L):
 
 		profile = random.choice([link for link in links_profile if link['dist'] == closest])
 
-		links_list.append(Link(nodeCount, edge[0] + 1, edge[1] + 1, profile['bw'], profile['delay']))
+		links_list.append(Link(nodeCount + 1, edge[0], edge[1], profile['bw'], profile['delay']))
 		nodeCount += 1
 
 	return links_list
