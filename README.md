@@ -168,7 +168,7 @@ However, the topology generator helps users with limited knowledge of RAN/EC sce
 
 #### Creating your own Infrastructure and Service description files
 
-The third method of interaction (step 1c in the figure above) allows the user to specify his own infrastructure and services files (step 1c in the figure above), which can be very useful for small use cases.
+The third method of interaction allows the user to specify his own infrastructure and services files (step 1c in the figure above), which can be very useful for small use cases.
 
 In this case, the user describes the infrastructure and services by writing JSON files following the eXP-RAN notation.
 
