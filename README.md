@@ -40,7 +40,7 @@ Now you need to download eXP-RAN's Xen VM.
 
 In order to do that, first enter the Xen VM subdirectory inside the repository you just cloned.
 
-Make sure that the location of the Xen VM directory is correct, the directory may differ depending on in which directory you have cloned the project.
+Make sure that the Xen VM directory location is correct, the directory may differ depending on in which directory you have cloned the project.
 
 ```
 cd /home/$USER/eXP-RAN/XenVM/
@@ -56,7 +56,7 @@ Once that is done, you should have two files downloaded to your machine, one is 
 
 ### Creating the eXP-RAN user
 
-In order for eXP-RAN to save the results of the tests from the VMs to your host, you need to create a user on your host for eXP-RAN.
+In order for eXP-RAN to save the results of the emulation tests from the VMs to your host, you need to create a user on your host for eXP-RAN.
 
 This is necessary because eXP-RAN copy the results from the VMs to your host via [SCP](https://help.ubuntu.com/community/SSH/TransferFiles), and instead of asking for the user's password to transfer the files, a more secure approach is to a create a user without root permissions only to copy the results files.
 
@@ -172,17 +172,22 @@ The third method of interaction allows the user to specify his own infrastructur
 
 In this case, the user describes the infrastructure and services by writing JSON files following the eXP-RAN notation.
 
-Examples of eXP-RAN infrastructure and services files can be found at the Description_Files directory.
+eXP-RAN infrastructure and services files examples can be found at the Description_Files directory.
 
 Where:\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; vRAN_MEC_services.json – Example of vRAN/MEC Service Description file.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; vRAN_MEC_Infra.json – Example of Infrastructure Description file that will support the vRAN/MEC service file example.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VideoStream_services.json – Example of video streaming Service Description file.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VideoStream_Infra.json – Example of Infrastructure Description file that will support the video streaming service file example.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; simple_vran_infra.json – A simple vRAN Infrastructure Description file example.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; simple_vran_infra.json – A simple vRAN Service Description file example.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; fluidRAN_Infra.json – FluidRAN model Infrastructure Description file example.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; fluidRAN_services.json – FluidRAN model Service Description file example.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; videoStream_Infra.json – Video streaming Infrastructure Description file example.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; videoStream_services.json – Video streaming Service Description file example.
 
-Please note that the same Infrastructure Description file can support both vRAN/MEC and video streaming service files. We uploaded two different Infrastructure Description files just to give more examples to the user.
+Things to note when creating your own Infrastructure and Service description files:
 
-Please note that in the video streaming service file, the first node number should always be the same, as it is going to be the video server. The video client is the last node, and it should always alternate between two nodes, in order to represent "Premium" and "Best-Effort" clients.
+* The same Infrastructure Description file can support both vRAN/MEC and video streaming service files. We uploaded different Infrastructure Description files just to give more examples to the user.
+* When numbering your nodes in the Infrastructure Description file, always start at zero and and make an increasing number.
+* The first node in the service file is the one receiving the network traffic, and the last node is the one generating the network traffic.
+* In the video streaming service file, the first node number should always be the same, as it is going to be the video server. The video client is the last node, and it should always alternate between two nodes, in order to represent "Premium" and "Best-Effort" clients.
 
 Now, you should have both your Infrastructure and Services files created by any of the three methods above. It is emulation time!
 
