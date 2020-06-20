@@ -185,7 +185,7 @@ Where:\
 Things to note when creating your own Infrastructure and Service description files:
 
 * The same Infrastructure Description file can support both vRAN/MEC and video streaming service files. We uploaded different Infrastructure Description files just to give more examples to the user.
-* When numbering your nodes in the Infrastructure Description file, always start at zero and and make an increasing number.
+* When numbering your nodes in the Infrastructure Description file, always start at zero and make an increasing number.
 * The first node in the service file is the one receiving the network traffic, and the last node is the one generating the network traffic.
 * In the video streaming service file, the first node number should always be the same, as it is going to be the video server. The video client is the last node, and it should always alternate between two nodes, in order to represent "Premium" and "Best-Effort" clients.
 
