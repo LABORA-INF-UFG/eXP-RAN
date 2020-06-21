@@ -3,6 +3,11 @@
 eXP-RAN was tested on Ubuntu 18.04 LTS and Ubuntu Server 18.04 LTS. Although it may work in some other Debian-based Linux distributions, we do not guarantee that all features will work well.
 
 - [Getting started](#getting-started)
+	- [Installing the prerequisites](#installing-the-prerequisites)
+	- [Xen configuration](#xen-configuration)
+	- [Cloning the repository](#cloning-the-repository)
+	- [Downloading the VM Template](#downloading-the-vm-template)
+	- [Creating the eXP-RAN user](#creating-the-exp-ran-user)
 - [Running your tests](#running-your-tests)
 	- [Interacting with the tool](#interacting-with-the-tool)
 		- [Model Adapter](#model-adapter)
@@ -26,7 +31,7 @@ sudo pip install paramiko networkx
 
 After installing the Xen Hypervisor, you need to restart your computer to load the hypervisor.
 
-Optional extra configuration: It is highly recommend to configure the Xen dom0 RAM, more information regarding this configuration can be found in the [Xen Project Documentation](https://wiki.xenproject.org/wiki/Xen_Project_Best_Practices).
+Optional extra configuration: It is **highly** recommend to configure the Xen dom0 RAM, more information regarding this configuration can be found in the [Xen Project Documentation](https://wiki.xenproject.org/wiki/Xen_Project_Best_Practices).
 
 ### Cloning the repository
 
@@ -76,11 +81,7 @@ Then, type necos for "Enter new UNIX password:" and "Retype new UNIX password:".
 
 Remember that this user is a non-root user and it is only going to be used for SCP, so the are no big security issues regarding the creation of this user.
 
-Nonetheless, you can delete this user at any moment by typing:
-
-```
-sudo userdel expran && sudo rm -rf /home/expran
-```
+Nonetheless, you can delete this user at any moment by typing: sudo userdel expran && sudo rm -rf /home/expran
 
 Alternatively, eXP-RAN has a module to destroy the created infrastructure. This module already deletes eXP-RAN's user after the emulation is done.
 
@@ -176,9 +177,11 @@ eXP-RAN infrastructure and services files examples can be found at the Descripti
 
 Where:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; simple_vran_infra.json – A simple vRAN Infrastructure Description file example.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; simple_vran_infra.json – A simple vRAN Service Description file example.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; simple_vran_services.json – A simple vRAN Service Description file example.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; fluidRAN_Infra.json – FluidRAN model Infrastructure Description file example.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; fluidRAN_services.json – FluidRAN model Service Description file example.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; simple_video_infra.json – A simple video streaming Infrastructure Description file example.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; simple_video_services.json – A simple video streaming Service Description file example.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; videoStream_Infra.json – Video streaming Infrastructure Description file example.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; videoStream_services.json – Video streaming Service Description file example.
 
