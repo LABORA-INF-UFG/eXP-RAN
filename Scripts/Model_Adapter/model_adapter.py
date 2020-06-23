@@ -1,6 +1,7 @@
 import sys
 import json
 import math
+import argparse
 
 class VM():
   def __init__(self, id, cpu, ram):
@@ -183,11 +184,14 @@ def convert_solution(user, fluidran_sol_filename, topology_filename):
 
 def main ():
 
-	user = sys.argv[1]
-	sol_file = sys.argv[2]
-	top_file = sys.argv[3]
+	parser = argparse.ArgumentParser()
+	parser.add_argument("-u", "--username", help="Your username")
+	parser.add_argument("-s", "--sol_file", help="Solution file")
+	parser.add_argument("-t", "--top_file", help="Topology file")
 
-	convert_solution(user, sol_file, top_file)
+	args = parser.parse_args()
+
+	convert_solution(args.username, args.sol_file, args.top_file)
 
 if __name__ == '__main__':
 	main()
