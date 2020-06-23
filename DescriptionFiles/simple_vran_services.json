@@ -1,0 +1,15 @@
+{
+   "services": [
+      {
+        "flows": [
+           {
+              "flowIdentifier": 1,
+              "bandwidth": 1,
+              "nodes": [2, 0, 1],
+              "ctnSourceNum": 2,
+              "ctnTargetNum": 1
+           }
+        ]
+      }
+   ]
+}
