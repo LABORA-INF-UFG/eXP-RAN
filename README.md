@@ -248,7 +248,7 @@ After creating your infrastructure and vRAN/MEC service files, you can start you
 Here is an example of how to use the script:
 
 ```
-sudo python emulation.py -e vran -t 1200 -i ../../DescriptionFiles/simple_video_infra.json -s ../../DescriptionFiles/simple_video_services.json
+sudo python emulation.py -e vran -t 1200 -i ../../DescriptionFiles/simple_vran_infra.json -s ../../DescriptionFiles/simple_vran_services.json
 ```
 
 Where:\
