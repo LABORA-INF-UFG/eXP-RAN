@@ -1,0 +1,86 @@
+{
+
+	"user": "benchmarker",
+
+	"nodes": [
+
+		{
+
+			"nodeNumber": 1,
+			"nodeType": "MECHost",
+
+			"vms": [
+
+				{
+
+					"vmNumber": 1,
+					"cpu": 2,
+					"ram": 1024,
+					"containers": [
+
+						{
+							"ctnNumber": 1,
+							"cpu": 1,
+							"ram": 512
+						}
+						
+					]
+
+				}
+
+			]
+
+		},
+
+		{
+			
+			"nodeNumber": 2,
+			"nodeType": "BaseStation",
+
+			"vms": [
+
+				{
+
+					"vmNumber": 2,
+					"cpu": 2,
+					"ram": 1024,
+					"containers": [
+
+						{
+							"ctnNumber": 2,
+							"cpu": 1,
+							"ram": 512
+						}
+
+					]
+
+				}
+
+			]
+
+		}
+
+	],
+
+	"links": [
+
+		{
+			"linkType": "Nodes",
+
+			"Connections": [
+
+				{
+
+					"linkNumber": 1,
+					"fromNode": 1,
+					"toNode": 2
+
+				}
+
+			]
+			
+		}
+
+	]
+
+}
