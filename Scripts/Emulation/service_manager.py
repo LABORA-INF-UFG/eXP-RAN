@@ -205,7 +205,7 @@ def deploy_services(emul_type, duration, fileInfra, fileServ, default_bwd):
 					if(i % 2 != 0):
 						n_servs += 1
 						default_bwd = round((1.0 / n_servs), 2)
-						print("Set {} deployed".format(i))
+						print("Set {}-{} deployed".format(i, i + 1))
 						time.sleep(int(duration))
 
 					i += 1
