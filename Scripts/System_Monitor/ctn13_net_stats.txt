@@ -1,0 +1,1497 @@
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2  bytes 84 (84.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2  bytes 84 (84.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2  bytes 84 (84.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2  bytes 84 (84.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2  bytes 84 (84.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2  bytes 84 (84.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 11  bytes 10642 (10.3 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 46  bytes 50832 (49.6 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 79  bytes 89294 (87.2 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 111  bytes 126242 (123.2 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 145  bytes 166266 (162.3 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 179  bytes 206446 (201.6 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 212  bytes 244908 (239.1 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 245  bytes 283386 (276.7 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 282  bytes 328640 (320.9 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 316  bytes 368804 (360.1 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 349  bytes 407266 (397.7 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 382  bytes 445212 (434.7 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 415  bytes 483674 (472.3 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 450  bytes 523880 (511.6 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 483  bytes 562734 (549.5 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 514  bytes 598184 (584.1 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 547  bytes 636850 (621.9 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 580  bytes 675296 (659.4 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 616  bytes 718316 (701.4 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 650  bytes 758308 (740.5 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 681  bytes 793946 (775.3 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 713  bytes 831098 (811.6 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 745  bytes 868062 (847.7 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 777  bytes 905026 (883.8 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 810  bytes 943504 (921.3 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 845  bytes 983554 (960.5 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 877  bytes 1020502 (996.5 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 910  bytes 1058980 (1.0 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 942  bytes 1096132 (1.0 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 980  bytes 1142900 (1.0 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1011  bytes 1178350 (1.1 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1043  bytes 1215298 (1.1 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1077  bytes 1254946 (1.1 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1110  bytes 1293612 (1.2 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1143  bytes 1332090 (1.2 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1175  bytes 1369430 (1.3 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1209  bytes 1408122 (1.3 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1241  bytes 1445274 (1.3 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1275  bytes 1484718 (1.4 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1311  bytes 1528270 (1.4 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1348  bytes 1572992 (1.5 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1381  bytes 1611658 (1.5 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1413  bytes 1648622 (1.5 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1447  bytes 1688614 (1.6 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1480  bytes 1725996 (1.6 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1513  bytes 1764318 (1.6 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 1  bytes 42 (42.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1545  bytes 1801282 (1.7 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1579  bytes 1839786 (1.7 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1612  bytes 1876980 (1.7 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1645  bytes 1915646 (1.8 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1681  bytes 1959182 (1.8 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1714  bytes 1997112 (1.9 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1745  bytes 2032750 (1.9 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1778  bytes 2071416 (1.9 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1810  bytes 2108380 (2.0 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1841  bytes 2143830 (2.0 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1873  bytes 2181546 (2.0 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1904  bytes 2216996 (2.1 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1936  bytes 2253428 (2.1 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1968  bytes 2290392 (2.1 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2003  bytes 2331146 (2.2 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2035  bytes 2368298 (2.2 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2068  bytes 2406776 (2.2 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2099  bytes 2442226 (2.3 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2131  bytes 2479566 (2.3 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2164  bytes 2517512 (2.4 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2195  bytes 2553338 (2.4 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2228  bytes 2591800 (2.4 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2261  bytes 2630638 (2.5 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2293  bytes 2667602 (2.5 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2327  bytes 2707594 (2.5 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2362  bytes 2749616 (2.6 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2396  bytes 2787964 (2.6 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2429  bytes 2826426 (2.6 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2461  bytes 2863374 (2.7 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2493  bytes 2900338 (2.7 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2526  bytes 2939176 (2.8 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2559  bytes 2978014 (2.8 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2590  bytes 3013464 (2.8 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2624  bytes 3052924 (2.9 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2657  bytes 3091574 (2.9 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2693  bytes 3135126 (2.9 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2728  bytes 3176616 (3.0 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2761  bytes 3215094 (3.0 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2794  bytes 3252476 (3.1 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2826  bytes 3289440 (3.1 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2858  bytes 3325872 (3.1 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2891  bytes 3363254 (3.2 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2923  bytes 3400594 (3.2 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2955  bytes 3437558 (3.2 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2987  bytes 3474506 (3.3 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3019  bytes 3511454 (3.3 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3054  bytes 3553868 (3.3 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 2  bytes 84 (84.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3085  bytes 3589318 (3.4 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3120  bytes 3628804 (3.4 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3151  bytes 3664254 (3.4 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3185  bytes 3703134 (3.5 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3218  bytes 3741612 (3.5 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3250  bytes 3778952 (3.6 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3283  bytes 3816898 (3.6 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3315  bytes 3854238 (3.6 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3347  bytes 3891186 (3.7 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3383  bytes 3934722 (3.7 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3416  bytes 3973184 (3.7 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3448  bytes 4010508 (3.8 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3481  bytes 4048986 (3.8 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3513  bytes 4085418 (3.8 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3544  bytes 4120868 (3.9 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3576  bytes 4157112 (3.9 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3608  bytes 4194060 (3.9 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3641  bytes 4232538 (4.0 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3674  bytes 4271016 (4.0 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3707  bytes 4309870 (4.1 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3742  bytes 4351376 (4.1 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3775  bytes 4389838 (4.1 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3807  bytes 4426802 (4.2 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3840  bytes 4465656 (4.2 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3871  bytes 4501106 (4.2 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3903  bytes 4538070 (4.3 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3935  bytes 4575410 (4.3 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3968  bytes 4612260 (4.3 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4001  bytes 4650738 (4.4 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4034  bytes 4689216 (4.4 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4069  bytes 4731254 (4.5 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4103  bytes 4771622 (4.5 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4135  bytes 4808586 (4.5 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4168  bytes 4846516 (4.6 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4201  bytes 4884978 (4.6 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4233  bytes 4922318 (4.6 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4265  bytes 4959658 (4.7 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4297  bytes 4996622 (4.7 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4329  bytes 5033586 (4.8 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4363  bytes 5071934 (4.8 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4398  bytes 5113972 (4.8 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4433  bytes 5155478 (4.9 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4465  bytes 5192426 (4.9 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4498  bytes 5231060 (4.9 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4531  bytes 5269538 (5.0 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4563  bytes 5306502 (5.0 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4594  bytes 5341952 (5.0 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 3  bytes 126 (126.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4627  bytes 5380650 (5.1 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4661  bytes 5419170 (5.1 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4692  bytes 5454620 (5.2 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4724  bytes 5491584 (5.2 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4761  bytes 5535554 (5.2 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4793  bytes 5572518 (5.3 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4826  bytes 5610464 (5.3 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4858  bytes 5647412 (5.3 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4889  bytes 5683238 (5.4 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4920  bytes 5718688 (5.4 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4951  bytes 5754514 (5.4 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4983  bytes 5791462 (5.5 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5016  bytes 5829784 (5.5 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5047  bytes 5865234 (5.5 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5080  bytes 5904244 (5.6 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5115  bytes 5945750 (5.6 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5147  bytes 5981618 (5.7 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5179  bytes 6018566 (5.7 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5213  bytes 6058026 (5.7 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5246  bytes 6096488 (5.8 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5277  bytes 6132690 (5.8 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5308  bytes 6168140 (5.8 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5342  bytes 6208132 (5.9 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5374  bytes 6245268 (5.9 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5407  bytes 6283730 (5.9 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5445  bytes 6329746 (6.0 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5477  bytes 6366710 (6.0 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5508  bytes 6402160 (6.1 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5542  bytes 6441056 (6.1 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5574  bytes 6478020 (6.1 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5606  bytes 6514984 (6.2 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5638  bytes 6552324 (6.2 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5672  bytes 6592160 (6.2 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5704  bytes 6629108 (6.3 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5735  bytes 6664558 (6.3 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5769  bytes 6705270 (6.3 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5802  bytes 6743732 (6.4 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5833  bytes 6779182 (6.4 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5866  bytes 6817112 (6.5 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5898  bytes 6854076 (6.5 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5931  bytes 6891458 (6.5 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5964  bytes 6930296 (6.6 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5996  bytes 6967260 (6.6 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6028  bytes 7004412 (6.6 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6061  bytes 7043078 (6.7 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6096  bytes 7084584 (6.7 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 4  bytes 168 (168.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6131  bytes 7126074 (6.7 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 5  bytes 210 (210.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6164  bytes 7163252 (6.8 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 5  bytes 210 (210.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6196  bytes 7200404 (6.8 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 5  bytes 210 (210.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6229  bytes 7238882 (6.9 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 5  bytes 210 (210.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6261  bytes 7275846 (6.9 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 5  bytes 210 (210.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6296  bytes 7315896 (6.9 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 5  bytes 210 (210.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6330  bytes 7355872 (7.0 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 5  bytes 210 (210.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6362  bytes 7392820 (7.0 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 5  bytes 210 (210.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6394  bytes 7429784 (7.0 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 5  bytes 210 (210.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6426  bytes 7466936 (7.1 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 5  bytes 210 (210.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6461  bytes 7509162 (7.1 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 5  bytes 210 (210.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6494  bytes 7547608 (7.1 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 5  bytes 210 (210.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6528  bytes 7587068 (7.2 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 5  bytes 210 (210.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6560  bytes 7624220 (7.2 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 5  bytes 210 (210.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6591  bytes 7659858 (7.3 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 5  bytes 210 (210.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6622  bytes 7695308 (7.3 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 5  bytes 210 (210.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6653  bytes 7731134 (7.3 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 5  bytes 210 (210.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6686  bytes 7768328 (7.4 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 5  bytes 210 (210.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6718  bytes 7805480 (7.4 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 5  bytes 210 (210.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6751  bytes 7843426 (7.4 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 5  bytes 210 (210.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6785  bytes 7883950 (7.5 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+916c855542084_l: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        ether 6a:a9:f7:f3:74:4c  txqueuelen 1000  (Ethernet)
+        RX packets 5  bytes 210 (210.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6818  bytes 7922616 (7.5 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
