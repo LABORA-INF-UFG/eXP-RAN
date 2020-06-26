@@ -13,8 +13,8 @@
                         3,
                         1
                     ],
-                    "ctnSourceNum": 1,
-                    "ctnTargetNum": 2
+                    "ctn_source_num": 1,
+                    "ctn_target_num": 2
                 },
                 {
                     "flowIdentifier": 2,
@@ -28,8 +28,8 @@
                         19,
                         2
                     ],
-                    "ctnSourceNum": 3,
-                    "ctnTargetNum": 4
+                    "ctn_source_num": 3,
+                    "ctn_target_num": 4
                 },
                 {
                     "flowIdentifier": 3,
@@ -50,8 +50,8 @@
                         3,
                         6
                     ],
-                    "ctnSourceNum": 5,
-                    "ctnTargetNum": 6
+                    "ctn_source_num": 5,
+                    "ctn_target_num": 6
                 },
                 {
                     "flowIdentifier": 4,
@@ -63,8 +63,8 @@
                         24,
                         9
                     ],
-                    "ctnSourceNum": 7,
-                    "ctnTargetNum": 8
+                    "ctn_source_num": 7,
+                    "ctn_target_num": 8
                 },
                 {
                     "flowIdentifier": 5,
@@ -74,8 +74,8 @@
                         10,
                         15
                     ],
-                    "ctnSourceNum": 9,
-                    "ctnTargetNum": 10
+                    "ctn_source_num": 9,
+                    "ctn_target_num": 10
                 },
                 {
                     "flowIdentifier": 6,
@@ -86,8 +86,8 @@
                         26,
                         16
                     ],
-                    "ctnSourceNum": 11,
-                    "ctnTargetNum": 12
+                    "ctn_source_num": 11,
+                    "ctn_target_num": 12
                 },
                 {
                     "flowIdentifier": 7,
@@ -102,8 +102,8 @@
                         4,
                         20
                     ],
-                    "ctnSourceNum": 13,
-                    "ctnTargetNum": 14
+                    "ctn_source_num": 13,
+                    "ctn_target_num": 14
                 },
                 {
                     "flowIdentifier": 8,
@@ -114,8 +114,8 @@
                         13,
                         24
                     ],
-                    "ctnSourceNum": 15,
-                    "ctnTargetNum": 16
+                    "ctn_source_num": 15,
+                    "ctn_target_num": 16
                 },
                 {
                     "flowIdentifier": 9,
@@ -137,8 +137,8 @@
                         6,
                         25
                     ],
-                    "ctnSourceNum": 17,
-                    "ctnTargetNum": 18
+                    "ctn_source_num": 17,
+                    "ctn_target_num": 18
                 },
                 {
                     "flowIdentifier": 10,
@@ -147,8 +147,8 @@
                         8,
                         28
                     ],
-                    "ctnSourceNum": 19,
-                    "ctnTargetNum": 20
+                    "ctn_source_num": 19,
+                    "ctn_target_num": 20
                 },
                 {
                     "flowIdentifier": 11,
@@ -160,8 +160,8 @@
                         24,
                         29
                     ],
-                    "ctnSourceNum": 21,
-                    "ctnTargetNum": 22
+                    "ctn_source_num": 21,
+                    "ctn_target_num": 22
                 },
                 {
                     "flowIdentifier": 12,
@@ -174,12 +174,12 @@
                         14,
                         29
                     ],
-                    "ctnSourceNum": 23,
-                    "ctnTargetNum": 24
+                    "ctn_source_num": 23,
+                    "ctn_target_num": 24
                 },
                 {
                     "flowIdentifier": 13,
-                    "bandwidth": 100.0,
+                    "bandwidth": 10.0,
                     "nodes": [
                         8,
                         28,
@@ -188,8 +188,8 @@
                         14,
                         29
                     ],
-                    "ctnSourceNum": 25,
-                    "ctnTargetNum": 26
+                    "ctn_source_num": 25,
+                    "ctn_target_num": 26
                 }
             ]
         }
