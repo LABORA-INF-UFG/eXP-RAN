@@ -94,7 +94,7 @@ There are three ways in which the user can interact with the tool. The figure be
 
 The figure above represents eXP-RAN workflow and system modules.
 
-Dot arrows represent optional flow; double arrows identify user inputs; single arrows represent mandatory flow; rectangle with dashed lines represent input files; while rectangle with solid lines identify the system modules.
+Arrows composed by dots and dashed lines represent optional flow; arrows only with dashed lines identify user inputs; single arrows represent mandatory flow; rectangles identify the system modules and circles represent input files. Note that step 7 has double meaning as it is an optional flow and an user input.
 
 Let's start with the Model Adapter module.
 
