@@ -129,17 +129,17 @@ def main ():
 
 	fig, ax = plt.subplots()
 
-	ax.plot(x_Premium, y_Premium, color='black', marker='o', markerfacecolor='black', markersize = 14, label="Premium service")
-	ax.plot(x1_Trash, first_set, color='b', marker='s', markersize = 14, label="BE service 1")
-	ax.plot(x2_Trash, second_set, color='r', marker='D', markersize = 14, label="BE service 2")
-	ax.plot(x3_Trash, third_set, color='g', marker='d', markersize = 14, label="BE service 3")
-	ax.plot(x4_Trash, fourth_set, color='m', marker='v', markersize = 14, label="BE service 4")
-	ax.plot(x5_Trash, fifth_set, color='orange', marker='^', markersize = 14, label="BE service 5")
+	ax.plot(x_Premium, y_Premium, color='black', marker='o', markerfacecolor='black', markersize = 14, label="Premium client")
+	ax.plot(x1_Trash, first_set, color='b', marker='s', markersize = 14, label="BE client 1")
+	ax.plot(x2_Trash, second_set, color='r', marker='D', markersize = 14, label="BE client 2")
+	ax.plot(x3_Trash, third_set, color='g', marker='d', markersize = 14, label="BE client 3")
+	ax.plot(x4_Trash, fourth_set, color='m', marker='v', markersize = 14, label="BE client 4")
+	ax.plot(x5_Trash, fifth_set, color='orange', marker='^', markersize = 14, label="BE client 5")
 
 	y_axis = [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
 	plt.xticks(x_axis)
 	plt.yticks(y_axis)
-	plt.xlabel('Time window (10 sec.)', fontsize = 33)
+	plt.xlabel('10-second time windows', fontsize = 33)
 	plt.ylabel('Quality of service (%)', fontsize = 33)
 	plt.tick_params(labelsize = 33)
 	plt.legend(fontsize = 28, loc='lower left')
