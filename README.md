@@ -94,7 +94,7 @@ There are three ways in which the user can interact with the tool. The figure be
 
 The figure above represents eXP-RAN workflow and system modules.
 
-Arrows composed by dots and dashed lines represent optional flow; arrows only with dashed lines identify user inputs; single arrows represent mandatory flow; rectangles identify the system modules and circles represent input files. Note that step 7 has double meaning as it is an optional flow and an user input.
+Single arrows represent mandatory flow; arrows only with dashed lines identify user inputs; arrows composed by dots and dashed lines represent optional flow; rectangles identify the system modules and circles represent input files. Note that step 7 has double meaning as it is an optional flow and an user input.
 
 Let's start with the Model Adapter module.
 
@@ -168,7 +168,7 @@ However, the topology generator helps users with limited knowledge of RAN/EC sce
 
 ### Creating your own Infrastructure and Service description files
 
-The third method of interaction allows the user to specify his own infrastructure and services files (step 1c in the [figure above](#interacting-with-the-tool)), which can be very useful for small use cases.
+The third method of interaction allows the user to specify his own infrastructure and services files (step 1c in the [figure above](#interacting-with-the-tool)), which can be very useful for small use-cases.
 
 In this case, the user describes the infrastructure and services by writing JSON files following the eXP-RAN notation.
 
