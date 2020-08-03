@@ -116,8 +116,8 @@ python model_adapter.py -u username -s solutionFile -t topologyFile
 
 Where:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -u (string) – Your username.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -n (file) – Your solution file.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -a (file) – Your topology file.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -s (file) – Your solution file.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -t (file) – Your topology file.
 
 Here is an example:
 
