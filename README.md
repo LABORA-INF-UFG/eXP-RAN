@@ -18,6 +18,8 @@ eXP-RAN was tested in Ubuntu 18.04 LTS and Ubuntu Server 18.04 LTS. Although it 
 	- [Video streaming emulation](#video-streaming-emulation)
 - [System Monitor | Analyzing the emulation results](#system-monitor--analyzing-the-emulation-results)
 - [Destroying an emulated infrastructure](#destroying-an-emulated-infrastructure)
+- [eXP-RAN IEEE Access Paper](#exp-ran-ieee-access-paper)
+- [Video tutorial](#video-tutorial)
 - [Contact us](#contact-us)
 
 ## Getting started
@@ -342,6 +344,16 @@ Things to note when destroying an emulated infrastructure:
 
 * The argument -u takes two entries. -u y will delete the eXP-RAN user, and -u n will not delete the eXP-RAN user. Please, be **careful** before deleting the eXP-RAN user, because like mentioned, the results of the emulation are saved at /home/expran/results, and deleting the eXP-RAN user will delete this repository. If you have already moved your results somewhere else, you can use -u y.
 * The Infrastructure description file provided to the infrastructure destroyer has to be the same one provided when creating the infrastructure.
+
+### eXP-RAN IEEE Access Paper
+
+For more information, read the [eXP-RAN IEEE Access Paper](https://ieeexplore.ieee.org/document/9171288).
+
+### Video tutorial
+
+Watch the eXP-RAN tutorial video:
+
+[![eXP-RAN: from installation to emulation results](https://yt-embed.herokuapp.com/embed?v=fT7O9ELj3dU)](https://www.youtube.com/watch?v=fT7O9ELj3dU "eXP-RAN: from installation to emulation results")
 
 ### Contact us
 
