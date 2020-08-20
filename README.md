@@ -353,7 +353,9 @@ For more information, read the [eXP-RAN IEEE Access Paper](https://ieeexplore.ie
 
 Watch the eXP-RAN tutorial video:
 
-[![eXP-RAN: from installation to emulation results](https://yt-embed.herokuapp.com/embed?v=fT7O9ELj3dU)](https://www.youtube.com/watch?v=fT7O9ELj3dU "eXP-RAN: from installation to emulation results")
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=fT7O9ELj3dU"><img src="https://yt-embed.herokuapp.com/embed?v=fT7O9ELj3dU" alt="eXP-RAN: from installation to emulation results"></a>
+</div>
 
 ### Contact us
 
