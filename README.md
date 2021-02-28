@@ -91,7 +91,7 @@ Now eXP-RAN is fully configured and you can start your tests!
 There are three ways in which the user can interact with the tool. The figure below details these interactions.
 
 <div align="center">
-<img src="Figures/System_Components.jpg" >
+<img src="Figures/System_Components.jpg" width="593" height="451" >
 </div>
 
 The figure above represents eXP-RAN workflow and system modules.
@@ -354,7 +354,7 @@ For more information, read the [eXP-RAN IEEE Access Paper](https://ieeexplore.ie
 Watch the eXP-RAN tutorial video:
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=fT7O9ELj3dU"><img src="https://yt-embed.herokuapp.com/embed?v=fT7O9ELj3dU" alt="eXP-RAN: from installation to emulation results"></a>
+<a href="https://www.youtube.com/watch?v=fT7O9ELj3dU"><img src="Figures/Video_Thumbnail.jpg" alt="eXP-RAN: from installation to emulation results" width="480" height="366"></a>
 </div>
 
 ### Contact us
