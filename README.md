@@ -20,6 +20,7 @@ eXP-RAN was tested in Ubuntu 18.04 LTS and Ubuntu Server 18.04 LTS. Although it 
 - [Destroying an emulated infrastructure](#destroying-an-emulated-infrastructure)
 - [eXP-RAN IEEE Access Paper](#exp-ran-ieee-access-paper)
 - [Video tutorial](#video-tutorial)
+- [VirtualBox considerations](#virtualbox-considerations)
 - [Contact us](#contact-us)
 
 ## Getting started
@@ -356,6 +357,10 @@ Watch the eXP-RAN tutorial video:
 <div align="center">
 <a href="https://www.youtube.com/watch?v=fT7O9ELj3dU"><img src="Figures/Video_Thumbnail.jpg" alt="eXP-RAN: from installation to emulation results" width="480" height="366"></a>
 </div>
+
+### VirtualBox considerations
+
+Please note that while it is possible to run some eXP-RAN modules inside a VirtualBox VM (e.g. Model Adapter and Topology Generator), it is not possible to run modules that use Xen (e.g., Benchmarker, Infrastructure Manager and Service Manager). This is due to the fact that it is not possible properly run a hypervisor inside another hypervisor. Please run these modules outside of VirtualBox, i.e., on your computer itself.
 
 ### Contact us
 
