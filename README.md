@@ -32,7 +32,7 @@ These instructions will guide you to get eXP-RAN up and running.
 ```
 sudo apt update
 sudo apt install python net-tools unzip python-pip iproute2 xen-hypervisor-4.6-amd64 xen-tools openvswitch-switch openssh-server curl git
-sudo pip install paramiko networkx
+sudo pip install paramiko networkx gdown
 ```
 
 ### Xen configuration
@@ -54,7 +54,7 @@ Now you need to download eXP-RAN's Xen VM.
 In order to do that, first enter the [Xen VM](XenVM/) directory inside the repository you just cloned, then run the VM Downloader script.
 
 ```
-sh VMDownloader.sh
+python VMDownloader.py
 ```
 
 Once that is done, you should have two files downloaded to your machine, one is the VM disk and the other is the VM swap disk.
