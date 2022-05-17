@@ -357,7 +357,7 @@ For more information, read the [eXP-RAN IEEE Access Paper](https://ieeexplore.ie
 @Article{esper:20,
   author={Esper, Jo{\~a}o Paulo and Abdallah, Abdallah S and Clayman, Stuart and Moreira, Waldir and Oliveira, Antonio and Correa, Sand Luz and Cardoso, Kleber Vieira},
   journal={IEEE Access},
-  title={eXP-RAN—An Emulator for Gaining Experience With Radio Access Networks, Edge Computing, and Slicing},
+  title={{eXP-RAN—An Emulator for Gaining Experience With Radio Access Networks, Edge Computing, and Slicing}},
   year={2020},
   volume={8},
   pages={152975--152989},
