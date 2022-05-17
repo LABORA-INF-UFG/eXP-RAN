@@ -19,6 +19,7 @@ eXP-RAN was tested in Ubuntu 18.04 LTS and Ubuntu Server 18.04 LTS. Although it 
 - [System Monitor | Analyzing the emulation results](#system-monitor--analyzing-the-emulation-results)
 - [Destroying an emulated infrastructure](#destroying-an-emulated-infrastructure)
 - [eXP-RAN IEEE Access Paper](#exp-ran-ieee-access-paper)
+	- [Citation](#citation)
 - [Video tutorial](#video-tutorial)
 - [VirtualBox considerations](#virtualbox-considerations)
 - [Contact us](#contact-us)
@@ -349,6 +350,21 @@ Things to note when destroying an emulated infrastructure:
 ### eXP-RAN IEEE Access Paper
 
 For more information, read the [eXP-RAN IEEE Access Paper](https://ieeexplore.ieee.org/document/9171288).
+
+#### Citation
+
+```
+@Article{esper:20,
+  author={Esper, Jo{\~a}o Paulo and Abdallah, Abdallah S and Clayman, Stuart and Moreira, Waldir and Oliveira, Antonio and Correa, Sand Luz and Cardoso, Kleber Vieira},
+  journal={IEEE Access},
+  title={eXP-RAN—An Emulator for Gaining Experience With Radio Access Networks, Edge Computing, and Slicing},
+  year={2020},
+  volume={8},
+  pages={152975--152989},
+  publisher={IEEE},
+  doi={10.1109/ACCESS.2020.3017917}
+}
+```
 
 ### Video tutorial
 
