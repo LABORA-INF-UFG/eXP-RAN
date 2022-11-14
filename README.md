@@ -306,7 +306,7 @@ Where:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -s (file) – Service description file.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -b (float) – Starting bandwitdh capacity of the "Best-Effort" clients.
 
-### System Monitor | Analyzing the emulation results
+## System Monitor | Analyzing the emulation results
 
 The System Monitor module is designed for collecting specific monitoring metrics related to the infrastructure and the services (steps 5 and 6 in the [figure above](#interacting-with-the-tool)). The collected metrics are saved in text files and can be accessed by the user in order to understand the results of the emulation. The results are saved at /home/expran/results/.
 
@@ -328,7 +328,7 @@ Here is one example of a graph plotted with the results of a video streaming ser
 python graph.py
 ```
 
-### Destroying an emulated infrastructure
+## Destroying an emulated infrastructure
 
 There is a script in [Scripts/Emulation](Scripts/Emulation/) that is responsible for destroying an emulated infrastructure. This script stops and deletes all VMs, OvS switches, network rules... deployed during the emulation.
 
@@ -347,11 +347,11 @@ Things to note when destroying an emulated infrastructure:
 * The argument -u takes two entries. -u y will delete the eXP-RAN user, and -u n will not delete the eXP-RAN user. Please, be **careful** before deleting the eXP-RAN user, because like mentioned, the results of the emulation are saved at /home/expran/results, and deleting the eXP-RAN user will delete this repository. If you have already moved your results somewhere else, you can use -u y.
 * The Infrastructure description file provided to the infrastructure destroyer has to be the same one provided when creating the infrastructure.
 
-### eXP-RAN IEEE Access Paper
+## eXP-RAN IEEE Access Paper
 
 For more information, read the [eXP-RAN IEEE Access Paper](https://ieeexplore.ieee.org/document/9171288).
 
-#### Citation
+### Citation
 
 ```
 @Article{esper:20,
@@ -366,7 +366,7 @@ For more information, read the [eXP-RAN IEEE Access Paper](https://ieeexplore.ie
 }
 ```
 
-### Video tutorial
+## Video tutorial
 
 Watch the eXP-RAN tutorial video:
 
@@ -374,10 +374,10 @@ Watch the eXP-RAN tutorial video:
 <a href="https://www.youtube.com/watch?v=fT7O9ELj3dU"><img src="Figures/Video_Thumbnail.jpg" alt="eXP-RAN: from installation to emulation results" width="480" height="366"></a>
 </div>
 
-### VirtualBox considerations
+## VirtualBox considerations
 
 Please note that while it is possible to run some eXP-RAN modules inside a VirtualBox VM (e.g. Model Adapter and Topology Generator), it is not possible to run modules that use Xen (e.g., Benchmarker, Infrastructure Manager and Service Manager). This is due to the fact that it is not possible properly run a hypervisor inside another hypervisor. Please run these modules outside of VirtualBox, i.e., on your computer itself.
 
-### Contact us
+## Contact us
 
 If you would like to contact us to contribute to this project, ask questions or suggest improvements, feel free to e-mail us at: expran.emulator@gmail.com
